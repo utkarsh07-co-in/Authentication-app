@@ -10,5 +10,6 @@ a) cd "authentication app"
 b) npm install bootstrap axios react-router-dom
 c) npm run dev
 
-# 3. Connect vs code to SQL
+# 3. Connect vs code to SQL through extention
+
 
