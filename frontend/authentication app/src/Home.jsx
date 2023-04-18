@@ -12,7 +12,7 @@ axios.defaults.WithCredentials = true;
    if(res.data.Status === "Success"){
     setAuth(true)
     setName(res.data.name)
-  
+  navigate('/login')
    
    }else{
     setAuth(false)
