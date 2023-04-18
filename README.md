@@ -1,5 +1,5 @@
 # Authentication-app
-1. #In server side
+# 1. In server side
 a) npm install -y
 b) npm install express mysql cors nodemon cookie-parser jsonwebtoken bcrypt.
 
